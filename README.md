@@ -1,2 +1,3 @@
 # counter-react
-Created with CodeSandbox
+
+A very simple counter app created using React
